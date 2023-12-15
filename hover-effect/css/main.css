@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+.container {
+  width: 1300px;
+  height: 1000px;
+}
